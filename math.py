@@ -9,4 +9,4 @@ print("掛け算:", num1 * num2)
 
 print("割り算:", num1 / num2)
 
-print("テスト2")
+print("PRテスト")
