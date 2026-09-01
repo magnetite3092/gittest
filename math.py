@@ -6,3 +6,5 @@ print("足し算:", num1 + num2)
 print("引き算:", num1 - num2)
 
 print("掛け算:", num1 * num2)
+
+print("割り算:", num1 / num2)
